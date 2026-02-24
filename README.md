@@ -163,11 +163,3 @@ Ensure environment variables are set before running the application. On Windows,
 ### Rate Limit Errors
 
 For Gemini, configure multiple API keys using `GEMINI_ROTATE_API_KEY` for automatic key rotation on rate limits.
-
-## License
-
-[Add your license here]
-
-## Contributing
-
-[Add contribution guidelines here]
